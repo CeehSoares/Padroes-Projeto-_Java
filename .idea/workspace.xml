@@ -4,27 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22309f0a-c8ab-48a7-95c5-ebd4fd4216fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PadroesProjetoJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/singleton/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/singleton/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/singleton/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/strategy/Comportamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/strategy/ComportamentoAgressivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/strategy/ComportamentoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/dio/strategy/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistema1/crm/CrnService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistema2/cep/CepApi.java" afterDir="false" />
+    <list default="true" id="22309f0a-c8ab-48a7-95c5-ebd4fd4216fc" name="Changes" comment="First commit Padrões de Projeto Java.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/dio/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/dio/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/dio/facade/Facade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/dio/facade/Facade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/dio/singleton/SingletonEager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/dio/singleton/SingletonEager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/dio/singleton/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/dio/singleton/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/one/dio/singleton/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/one/dio/singleton/SingletonLazyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subsistema1/crm/CrnService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subsistema1/crm/CrnService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subsistema2/cep/CepApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/subsistema2/cep/CepApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +76,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681225634203</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit Padrões de Projeto Java.">
+      <created>1681243203259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681243203259</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit Padrões de Projeto Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit Padrões de Projeto Java." />
   </component>
 </project>

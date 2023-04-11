@@ -11,5 +11,6 @@ public class CrnService {
         System.out.println(cep);
         System.out.println(cidade);
         System.out.println(estado);
+
     }
 }

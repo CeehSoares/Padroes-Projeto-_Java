@@ -1,5 +1,4 @@
 package one.dio.singleton;
-
 /**
  * Singleton "preguiçoso".
  *
